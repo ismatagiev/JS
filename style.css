@@ -1,0 +1,20 @@
+h1{
+	text-align: center;
+	font-weight: lighter;
+	color: #f2c8c8;
+}
+button{
+	background-color: #ffffff;
+    font-weight: bold;
+    border-radius: 12px;
+    font-size: 17px;
+}
+span{
+	font-weight: bold;
+	color: #f2c8c8;
+	font-size: 21px;
+}
+body{
+	background-image: url(fon.jpg);
+	margin: 0;
+}
